@@ -1,2 +1,2 @@
-ffmpeg -i videofile.mp4 -vcodec libx265 -crf 28 output.mp4
+ffmpeg -i videofile.mp4 -vcodec libx265 -crf 28 output.mp4 #Higher the number(28) the more compressed it is
 
