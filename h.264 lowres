@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -vcodec libx264 -crf 30 output.mp4 #Higher is better quality
