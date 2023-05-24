@@ -1,1 +1,0 @@
-ffmpeg -i input-file.wav -vn -ar 44100 -ac 2 -b:a 192k output-file.mp3
